@@ -1,0 +1,24 @@
+/* Extracted and simplified CSS from your SCSS */
+.projects {
+    background-color: #273142; /* Replace with your color */
+    border: 1px solid #313D4F; /* Replace with your color */
+    overflow-x: auto;
+    width: 100%;
+  }
+  
+  .projects-inner {
+    border-radius: 4px;
+  }
+  
+  .projects-header {
+    color: white;
+    padding: 22px;
+  }
+  
+  .projects-table {
+    background: #273142; /* Replace with your color */
+    width: 100%;
+  }
+  
+  /* ...other styles... */
+  
